@@ -1,0 +1,11 @@
+D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\obj\Debug\Lab2.pdb
