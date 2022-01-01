@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab7_LMS System\Lab7_LMS System\bin\Debug\Lab7_LMS System.exe.config
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab7_LMS System\Lab7_LMS System\bin\Debug\Lab7_LMS System.exe
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab7_LMS System\Lab7_LMS System\bin\Debug\Lab7_LMS System.pdb
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab7_LMS System\Lab7_LMS System\obj\Debug\Lab7_LMS System.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab7_LMS System\Lab7_LMS System\obj\Debug\Lab7_LMS System.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab7_LMS System\Lab7_LMS System\obj\Debug\Lab7_LMS_System.Form1.resources
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab7_LMS System\Lab7_LMS System\obj\Debug\Lab7_LMS_System.Properties.Resources.resources
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab7_LMS System\Lab7_LMS System\obj\Debug\Lab7_LMS System.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab7_LMS System\Lab7_LMS System\obj\Debug\Lab7_LMS System.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab7_LMS System\Lab7_LMS System\obj\Debug\Lab7_LMS System.exe
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab7_LMS System\Lab7_LMS System\obj\Debug\Lab7_LMS System.pdb

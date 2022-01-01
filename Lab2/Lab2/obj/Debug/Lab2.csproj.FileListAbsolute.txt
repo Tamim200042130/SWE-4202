@@ -9,3 +9,25 @@ D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResourc
 D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
 D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\obj\Debug\Lab2.exe
 D:\IUT BOOK\Lab\2nd Semester\SWE\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\user\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\user\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\user\Desktop\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\user\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\user\Desktop\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\user\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\user\Desktop\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab2\Lab2\obj\Debug\Lab2.pdb

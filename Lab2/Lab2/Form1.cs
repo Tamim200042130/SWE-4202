@@ -62,6 +62,7 @@ namespace Lab2
             else label25.Text = "F";
             label25.Visible = label26.Visible = label20.Visible = label21.Visible = true;
             label23.Visible = label22.Visible = true;
+            MessageBox.Show("Succesfully Calculated");
 
         }
 
@@ -81,6 +82,21 @@ namespace Lab2
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox8_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }
