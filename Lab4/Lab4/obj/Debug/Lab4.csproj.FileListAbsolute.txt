@@ -4,3 +4,9 @@ C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab4\Lab4\obj\Debug\Lab4.Form1.re
 C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
 C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
 C:\Users\user\OneDrive - iut-dhaka.edu\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\IUT BOOK\Lab\2nd Semester\SWE 4202\Lab Solution\SWE-4202\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\IUT BOOK\Lab\2nd Semester\SWE 4202\Lab Solution\SWE-4202\Lab4\Lab4\obj\Debug\Lab4.csproj.SuggestedBindingRedirects.cache
+D:\IUT BOOK\Lab\2nd Semester\SWE 4202\Lab Solution\SWE-4202\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\IUT BOOK\Lab\2nd Semester\SWE 4202\Lab Solution\SWE-4202\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\IUT BOOK\Lab\2nd Semester\SWE 4202\Lab Solution\SWE-4202\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\IUT BOOK\Lab\2nd Semester\SWE 4202\Lab Solution\SWE-4202\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
