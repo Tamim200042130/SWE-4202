@@ -79,12 +79,15 @@ namespace Tic_Tac_Toe
 
                 {
                     ((Button)X).Enabled = true; 
-                    ((Button)X).Text = "?"; 
-                    ((Button)X).BackColor = default(Color); 
+                    ((Button)X).Text = " "; 
+                    ((Button)X).BackColor = default(Color);
+                    
                 }
+                
             }
 
             loadbuttons(); 
+           
         }
        
 
@@ -102,8 +105,9 @@ namespace Tic_Tac_Toe
             {
 
                 AImoves.Stop();
-                MessageBox.Show("Player Wins!!!!");
-                playerWins++;
+               // MessageBox.Show("Player Wins!!!!");
+                playerWins = playerWins + 10;
+                MessageBox.Show($"Player Score:{playerWins}/100");
                 PlayerScore.Text = "Player Wins-  " + playerWins;
                 resetGame();
             }
@@ -120,9 +124,22 @@ namespace Tic_Tac_Toe
 
 
                 AImoves.Stop();
-                MessageBox.Show("Computer Wins!!!!");
-                computerWins++;
+                
+                computerWins = computerWins + 10;
+                MessageBox.Show($"Computer Score:{computerWins}/100");
                 ComputerScore.Text = "Computer Wins -  " + computerWins;
+                resetGame();
+            }
+            
+
+            if(playerWins> computerWins && playerWins==100 )
+            {
+                MessageBox.Show("Player Wins!!!!");
+                resetGame();
+            }
+            else if(computerWins> playerWins && computerWins==100)
+            {
+                MessageBox.Show("Computer Wins!!!!");
                 resetGame();
             }
 
@@ -132,9 +149,9 @@ namespace Tic_Tac_Toe
         private void newGameToolStripMenuItem_Click(object sender, EventArgs e)
         {
             playerWins = 0;
-            PlayerScore.Text = "Player Wins-  " + playerWins;
+            PlayerScore.Text = "Player Score-  " + playerWins;
             computerWins = 0;
-            ComputerScore.Text = "Computer Wins -  " + computerWins;
+            ComputerScore.Text = "Computer Score -  " + computerWins;
             resetGame();
             MessageBox.Show("New Game!!!");
 
@@ -144,12 +161,19 @@ namespace Tic_Tac_Toe
 
         private void restartToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            
             resetGame();
+            MessageBox.Show("Restart");
         }
 
         private void infoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This Game is made by ''Mohammad Tamim Ibn Hossain''\nIslamic University of Technology\nSofware Engineering\nID NO:200042130");
+            MessageBox.Show("This Game is made by ''Mohammad Tamim Ibn Hossain''\nID NO:200042130");
+        }
+
+        private void rulesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("If anyone score 100 first then he will win");
         }
     }
 }
